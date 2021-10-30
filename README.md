@@ -1,14 +1,14 @@
-# Project One: Travel Brewery
+# Travel Brewery Guide
 
-[Live GitHub Page](https://matildabrantley.github.io/project-one/)
+[Live GitHub Page](https://matildabrantley.github.io/brewery-travel-guide/)
+## Team 
+* Matilda Brantley
+* Andrew Koster
+* Eagle Le
+* Rakheem Smith
+* Sergio Navarrete
 
-![banner](../components/breweryReadme.gif)
-
-## CheckList:  
-```
-Search for brewery
-Learn about location and area
-Being able to pull up picture of the brewery
+![banner](assets/components/breweryReadme.gif)
 ```
 ## Project Description:
 ```
@@ -24,13 +24,13 @@ As an avid drinker that likes to travel, I want to know which breweries are in t
 ```
 OpenBreweries and Wikipedia
 ```
-## Rough breakdown of tasks:
+## Breakdown of Roles:
 ```
-*Matilda: Javascript/jQuery, API calls, designing layout
-*Andrew: Detailed search results, API calls
-*Eagle: CSS, Top 9 page, wire frame, README
-*Sergio: CSS, debugging code, functionality
-*Rakheem: Presentation, GitHub requests
+* Matilda: Javascript/jQuery, API calls, designing layout
+* Andrew: Detailed search results, API calls
+* Eagle: CSS, Top 9 page, wire frame, README
+* Sergio: CSS, debugging code, functionality
+* Rakheem: Presentation, GitHub requests
 ```
 ## Features:
 * Fetch nation-wide brewery information with OpenBrreweryDB API, searching by city or state.
