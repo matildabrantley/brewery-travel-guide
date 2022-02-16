@@ -1,5 +1,7 @@
+/* Top9 stylesheet */
+
 body {
-background-color: gray;
+    background-color: gray;
 }
 .card-body {
     background-color: '#1a1a1a', color: '#d9e9e8';
