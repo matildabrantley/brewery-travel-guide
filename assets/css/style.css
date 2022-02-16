@@ -50,12 +50,12 @@ body {
     background-size: contain;
     background-size: cover;
 }
-#buttonPage {
+#top-brew-button {
     position: fixed;
     left: 5vw;
-    top: 8vh;
-    width: 15vw;
-    font-size: 1.2vw;
+    top: 6vh;
+    width: max(15vw, 100px);
+    font-size: 1.5vw;
     padding:5px;
 }
 
@@ -199,4 +199,14 @@ figure {
     margin: 5px;
     max-width: 10vw;
     font-size: 1vw;
+}
+
+@media screen and (max-width: 768px) {
+    #top-brew-button {
+        position: fixed;
+        top: 3vh;
+        width: max(15vw, 80px);
+        font-size: 2vw;
+        padding:5px;
+    }
 }
